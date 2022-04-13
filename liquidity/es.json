@@ -43,7 +43,7 @@
   "New to Ethereum?": "Nuevo en Ethereum",
   "Oops!": "Oops!",
   "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device": "Oops! Un error desconocido ocurrió.Por favor actualice la página,o visítela desde cualquier otro navegador o dispositivo",
-  "Output is estimated. If the price changes by more than {0}% your transaction\nwill revert.": "La producción está estimada.Si el precio cambia más que {0}% su transacción revertirá.
+  "Output is estimated. If the price changes by more than {0}% your transaction\nwill revert.": "La producción está estimada.Si el precio cambia más que {0}% su transacción revertirá.",
   "Output is estimated. If the price changes by more than {0}% your transaction will revert.": "La producción está estimada.Si el precio cambia más que {0}% su transacción revertirá.",
   "Overview": "Visión general",
   "Pending": "Pendiente",
@@ -94,4 +94,4 @@
   "{0} Deposited": "{0} Depositado",
   "{0} {1} per {2}": "{0} {1} por {2}",
   "{0}/{1} Burned": "{0}/{1} Quemado",
-}
+} 
